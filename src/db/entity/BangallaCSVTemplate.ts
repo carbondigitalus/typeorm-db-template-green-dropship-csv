@@ -19,7 +19,7 @@ import 'reflect-metadata';
 // Custom Modules
 import { PriceCheck } from '../../enums';
 
-@Entity('bangalla_product_list')
+@Entity('green_dropship_products')
 export default class BangallaCSVTemplate extends BaseEntity {
     // COLUMNS
     @PrimaryGeneratedColumn('uuid')
